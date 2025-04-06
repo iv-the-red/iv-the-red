@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivthered</h1>
-<h3 align="center">I'm a small devoleper who likes to help!</h3>
+<h3 align="center">I'm a small devoleper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iv-the-red&label=Profile%20views&color=0e75b6&style=flat" alt="iv-the-red" /> </p>
 
