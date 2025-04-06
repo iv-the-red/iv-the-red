@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivthered</h1>
-<h3 align="center">I'm a small devoleper who likes to help people!</h3>
+<h3 align="center">I'm a small devoleper who likes to help!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iv-the-red&label=Profile%20views&color=0e75b6&style=flat" alt="iv-the-red" /> </p>
 
@@ -9,15 +9,11 @@
 
 - 🔭 I’m currently working on [Bloxstrap+](https://github.com/iv-the-red/Bloxstrap-Plus)
 
-- 🌱 I’m currently learning **C#**
-
-- 🔭 I’m also working on **Other stuff.**
-
-- 💬 Ask me about **Games, Coding, Help!**
+- 🌱 I’m currently learning **Life**
 
 - 📫 How to reach me **iv2@0net.red**
 
-- ⚡ Fun fact **Life is like a game....**
+- ⚡ Fun fact **To beat someone you have to first learn his every action.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
