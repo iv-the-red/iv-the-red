@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ivthered0" target="blank"><img src="https://img.shields.io/twitter/follow/ivthered0?logo=twitter&style=for-the-badge" alt="ivthered0" /></a> </p>
 
-- 🔭 I’m currently working on [Bloxstrap+](https://github.com/iv-the-red/Bloxstrap-Plus)
+- 🔭 I’m currently working on [Starstruck Studios mainframe!](https://starstruck-studios.top)
 
 - 🌱 I’m currently learning **Life**
 
